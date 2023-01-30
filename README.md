@@ -1,4 +1,5 @@
 ## Power Learn Project Week 1
-computer essentials!
+
+Computer Essentials!
 
 Git and Github
